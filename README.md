@@ -4,6 +4,11 @@ This project focuses on **multi-class classification of chest X-ray images** int
 
 ---
 
+Link to deployed model: https://rohanhanda123-pneumonia-detection-using-xray.hf.space/?logs=container&__theme=system&deep_link=dU8ztkKKrnc
+
+---
+
+
 ## 📌 Project Motivation
 
 Chest X-rays are one of the most common and cost-effective diagnostic tools in respiratory medicine. Automated analysis can assist clinicians by:
