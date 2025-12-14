@@ -4,7 +4,7 @@ This project focuses on **multi-class classification of chest X-ray images** int
 
 ---
 
-Link to deployed model: https://rohanhanda123-pneumonia-detection-using-xray.hf.space/?logs=container&__theme=system&deep_link=dU8ztkKKrnc
+Link to deployed model: [https://huggingface.co/spaces/RohanHanda123/Pneumonia-Detection-using-xray]
 
 ---
 
